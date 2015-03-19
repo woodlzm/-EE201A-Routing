@@ -1,0 +1,5 @@
+make 				//for release version
+make mazed 	//for debug version
+./maze <filename> // <filename> includes the information
+									// of grids, terminals, and obstacles.
+
